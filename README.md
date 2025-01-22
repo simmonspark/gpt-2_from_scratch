@@ -1,5 +1,7 @@
 # gpt-2_from_scratch
 
+torch summary로 허깅페이스에 모델과 weight를 가져온다. 이후에 직접 gpt를 만들고 state_dict를 load한다.
+
 ![IMG_1870](https://github.com/user-attachments/assets/9cdfd128-d085-47b9-8800-8b149c91ca38)
 
 
